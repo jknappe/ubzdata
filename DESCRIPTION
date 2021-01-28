@@ -1,0 +1,18 @@
+Package: ubzdata
+Type: Package
+Title: Data package for use at UFZ-UBZ
+Version: 0.1.0
+Authors@R: c(
+    person("Jan", "Knappe", email="jan.knappe@gmail.com", role = c("aut", "cre"))
+    )
+Maintainer: Jan Knappe <jan.knappe@gmail.com>
+Description: A collection of data sets used for work at UFZ-UBZ, the Centre of
+    Encironmental and Biotechnology at the Helmholtz Centre for Environmental 
+    Research in Leipzig, Germany. For a detailed description of the contained 
+    data sets check the package documentation or visit the package website.
+Depends:
+    R (>= 4.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://www.janknappe.com/ubzdata
